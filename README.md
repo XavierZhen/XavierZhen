@@ -4,9 +4,8 @@
 📊 Turning complex data into clear business insights | 🌱 Passionate about retail innovation, renewable energy & Esports analytics 
 
 <p align="center">
-<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/826d8e15-ef56-404c-87a3-b5991a5fda35" />
+  <img src="./me.png" alt="me" width="600"/>
 </p>
-
 
 ## 🔎 About Me
 - 🎓 Master of Commerce (Data Analytics for Business) | Bachelor of Business (Management, Law & Marketing)  
@@ -98,8 +97,22 @@ while curious:
     share_insights()
 ```
 
-<p align="center"> <img src="./200.gif?raw=true" width="250"/> </p> 
+<h3>🏷️ Projects</h3>
 
-<h3>🏷️Projects：</h3><br>
-Please visit my portfolio page: https://github.com/XaiZhen?tab=repositories 
+📂 Please visit my portfolio page: [My Repositories](https://github.com/XavierZhen?tab=repositories)  
 
+---
+
+
+## 🤝 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/xavier-zhen-b20b70266/)  
+- 📧 **Email**: xavierzhen99@gmail.com  
+
+---
+## 📈 GitHub Stats
+![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierZhen&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierZhen&layout=compact&theme=radical)
+
+---
+
+✨ *“Data is not just numbers — it’s the story behind business decisions.”*
